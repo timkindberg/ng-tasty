@@ -11,11 +11,11 @@ docs2
 !benchmarks/dist
 
 # Node
-node_modules
+# node_modules
 npm-debug.log
 
 # Bower
-bower_components
+# bower_components
 
 # Template
 template/**/*.js
